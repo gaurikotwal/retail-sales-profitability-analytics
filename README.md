@@ -231,7 +231,7 @@ sql/analysis_queries.sql
 retail-sales-profitability-analytics/
 │
 ├── data/
-│   └── source CSV files
+└── dataset documentation
 │
 ├── images/
 │   └── dashboard screenshots
